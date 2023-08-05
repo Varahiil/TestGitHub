@@ -7,4 +7,6 @@ public class AddClassTest {
 
     String ref = "Happy";
 
+    String perfomance = "Cool";
+
 }
