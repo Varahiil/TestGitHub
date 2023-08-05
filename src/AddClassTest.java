@@ -5,4 +5,6 @@ public class AddClassTest {
     int age = 1128;
     int age = 228;
 
+    String ref = "Happy";
+
 }
