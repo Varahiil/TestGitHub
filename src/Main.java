@@ -7,5 +7,9 @@ public class Main {
         System.out.println("New Life");
         System.out.println("New Life");
         System.out.println("New Life");
+        System.out.println();
+        System.out.println("New Line");
+        System.out.println("New Line");
+        System.out.println("New Line");
     }
 }
